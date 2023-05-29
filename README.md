@@ -1,4 +1,4 @@
-# Hi there! 👋
+<!-- # Hi there! 👋
 
 I'm a Primary 6 student who loves coding and making games! I have experience in Python, Turtle, Scratch, Roblox, RoboMaster, and Jupyter Notebook.
 
@@ -30,3 +30,4 @@ Here are some of the games I've created:
 If you'd like to check out my projects or get in touch, feel free to connect with me through my GitHub profile!
 
 
+ -->

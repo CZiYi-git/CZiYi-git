@@ -1,6 +1,6 @@
 <!-- # Hi there! 👋
 
-I'm a Primary 6 student who loves coding and making games! I have experience in Python, Turtle, Scratch, Roblox, RoboMaster, and Jupyter Notebook.
+I'm a Secondary 2 student who loves coding and making games! I have experience in Python, Turtle, Scratch, Roblox, RoboMaster, and Jupyter Notebook.
 
 ## 💻 My Coding Experience
 
